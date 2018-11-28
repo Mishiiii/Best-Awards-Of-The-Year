@@ -1,0 +1,16 @@
+body {
+    text-align:center;
+}
+
+h1 {
+    margin:30px;
+}
+img {
+    width:300px;
+}
+
+.award {
+    color:blue;
+    font-family: 'Raleway', sans-serif;
+}
+
