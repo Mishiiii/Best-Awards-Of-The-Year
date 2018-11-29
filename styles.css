@@ -1,16 +1,40 @@
 body {
     text-align:center;
+   
 }
 
 h1 {
     margin:30px;
+    font-weight:bold;
 }
 img {
-    width:300px;
+    width:400px;
+    height:350px;
+    border:solid;
 }
 
 .award {
-    color:blue;
-    font-family: 'Raleway', sans-serif;
+    color:hotpink; 
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Leckerli One', cursive;
+font-family: 'Kaushan Script', cursive;   
+}
+.rainbow {
+    color:yellow;
+   font-family: 'Open Sans', sans-serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Leckerli One', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Merienda', cursive;
+}
+.sky {
+    color:skyblue;
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Berkshire Swash', cursive;
+}
+.cream {
+    color:lightgreen;
+   font-family: 'Courgette', cursive;
 }
 
